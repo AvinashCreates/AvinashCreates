@@ -1,12 +1,31 @@
 <div align="center">
 
 <!-- Animated Header -->
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=AvinashCreates&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Typing Animation -->
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;Building+Scalable+Solutions+%F0%9F%9A%80;Backend+%26+System+Design+%E2%9A%A1;CSE+Engineering+Student+%F0%9F%8E%93;Always+Building%2C+Always+Learning+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br>
+
+<!-- ASCII ART -->
+
+<pre>
+ █████╗ ██╗   ██╗██╗███╗   ██╗ █████╗ ███████╗██╗  ██╗
+██╔══██╗██║   ██║██║████╗  ██║██╔══██╗██╔════╝██║  ██║
+███████║██║   ██║██║██╔██╗ ██║███████║███████╗███████║
+██╔══██║╚██╗ ██╔╝██║██║╚██╗██║██╔══██║╚════██║██╔══██║
+██║  ██║ ╚████╔╝ ██║██║ ╚████║██║  ██║███████║██║  ██║
+╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+
+          &lt; / &gt;  BUILD • CREATE • DEPLOY  &lt; / &gt;
+</pre>
+
+<br>
+
+<!-- Social Links -->
 
 <p align="center">
   <a href="https://linkedin.com/in/avinash-creates">
@@ -48,6 +67,7 @@ I enjoy turning ideas into practical software — from polished interfaces to ba
 <div align="center">
 
 ### 🎨 Frontend
+
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -55,12 +75,14 @@ I enjoy turning ideas into practical software — from polished interfaces to ba
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
 ### ⚙️ Backend & APIs
+
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
 ### 🗄️ Databases & Infrastructure
+
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -68,6 +90,7 @@ I enjoy turning ideas into practical software — from polished interfaces to ba
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
 ### 🧠 AI / ML & Tools
+
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -79,11 +102,11 @@ I enjoy turning ideas into practical software — from polished interfaces to ba
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| 💳 **BillSphere** | Recurring payment, subscription management & billing automation platform | React, Python, FastAPI, Celery, Redis, PostgreSQL |
-| 🌧️ **TBEF** | Transformer-based ensemble framework for sub-seasonal extreme rainfall prediction | PyTorch, Transformers, ERA5, IMD, SRTM |
-| 🧠 **AI/ML Projects** | Research and prototype implementations exploring modern machine learning architectures | Python, PyTorch, Scikit-learn |
+| Project               | Description                                                                            | Stack                                             |
+| --------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| 💳 **BillSphere**     | Recurring payment, subscription management & billing automation platform               | React, Python, FastAPI, Celery, Redis, PostgreSQL |
+| 🌧️ **TBEF**          | Transformer-based ensemble framework for sub-seasonal extreme rainfall prediction      | PyTorch, Transformers, ERA5, IMD, SRTM            |
+| 🧠 **AI/ML Projects** | Research and prototype implementations exploring modern machine learning architectures | Python, PyTorch, Scikit-learn                     |
 
 ---
 
@@ -105,8 +128,6 @@ I enjoy turning ideas into practical software — from polished interfaces to ba
 
 ## 🐍 Contribution Snake
 
-> The snake below is generated automatically by GitHub Actions from my contribution graph.
-
 <div align="center">
 
 <picture>
@@ -123,10 +144,11 @@ I enjoy turning ideas into practical software — from polished interfaces to ba
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AvinashCreates&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=AvinashCreates\&style=flat-square\&label=Profile+Views)
 
-[![GitHub Followers](https://img.shields.io/github/followers/AvinashCreates?style=flat-square&label=Followers)](https://github.com/AvinashCreates)
-[![GitHub Stars](https://img.shields.io/github/stars/AvinashCreates?style=flat-square&label=Stars)](https://github.com/AvinashCreates)
+[![GitHub Followers](https://img.shields.io/github/followers/AvinashCreates?style=flat-square\&label=Followers)](https://github.com/AvinashCreates)
+
+[![GitHub Stars](https://img.shields.io/github/stars/AvinashCreates?style=flat-square\&label=Stars)](https://github.com/AvinashCreates)
 
 </div>
 
