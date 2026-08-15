@@ -4,312 +4,158 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=AvinashCreates&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;Crafting+Digital+Solutions+%F0%9F%9A%80;Code+Enthusiast+%F0%9F%8E%AF;MERN+Stack+Expert+%E2%9A%A1;Tech+Innovator+%F0%9F%8C%90;Open+Source+Contributor+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=700&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;Building+Scalable+Solutions+%F0%9F%9A%80;Backend+%26+System+Design+%E2%9A%A1;CSE+Engineering+Student+%F0%9F%8E%93;Always+Building%2C+Always+Learning+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br>
 
-<!-- Social Links with Glowing Effect -->
 <p align="center">
   <a href="https://linkedin.com/in/avinash-creates">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/avinash_creates">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://github.com/AvinashCreates">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:avinash.creates@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
-  </a>
-  <a href="https://twitter.com/AvinashCreates">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 </div>
 
-<!-- About Me Section -->
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+## 👨‍💻 About Me
 
 ```javascript
 const avinash = {
-    pronouns: "He/Him",
-    location: "India 🇮🇳",
     role: "Full Stack Developer",
-    passion: "Building Scalable Web Solutions 🔭",
-    learning: ["MERN Stack", "System Design", "Cloud Architecture"],
-    expertise: ["Web Development", "Backend APIs", "Database Design"],
-    philosophy: "Clean code, Better logic, Continuous improvement",
-    
-    dailyLoop: function() {
-        while(coding) {
-            build();
-            learn();
-            innovate();
-            share();
-        }
-    }
+    focus: ["Backend Engineering", "System Design", "Database Design"],
+    building: ["SaaS Platforms", "Automation Systems", "AI/ML Projects"],
+    learning: ["Distributed Systems", "Cloud Architecture", "Advanced AI"],
+    philosophy: "Build. Break. Learn. Improve. Repeat. 🚀"
 };
 ```
 
-<br clear="right"/>
+I enjoy turning ideas into practical software — from polished interfaces to backend systems, databases, automation pipelines, and research-oriented AI applications.
 
-<!-- Wave Line -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-<!-- Tech Stack with Icons -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> 
-  Tech Arsenal
-</h2>
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-<table>
-<tr>
-<td valign="top" width="50%">
+### 🎨 Frontend
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-#### 🎨 Frontend Magic
-<div align="center">  
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</div>
+### ⚙️ Backend & APIs
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 
-#### ⚙️ Backend Power
-<div align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-</div>
+### 🗄️ Databases & Infrastructure
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
-</td>
-<td valign="top" width="50%">
-
-#### 🗄️ Database & Cloud
-<div align="center">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</div>
-
-#### 💻 Tools & Technologies
-<div align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</div>
-
-</td>
-</tr>
-</table>
+### 🧠 AI / ML & Tools
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-<!-- Accomplishments Section -->
-<h2 align="center">🏆 Accomplishments & Achievements</h2>
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 💳 **BillSphere** | Recurring payment, subscription management & billing automation platform | React, Python, FastAPI, Celery, Redis, PostgreSQL |
+| 🌧️ **TBEF** | Transformer-based ensemble framework for sub-seasonal extreme rainfall prediction | PyTorch, Transformers, ERA5, IMD, SRTM |
+| 🧠 **AI/ML Projects** | Research and prototype implementations exploring modern machine learning architectures | Python, PyTorch, Scikit-learn |
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-| Achievement | Details |
-|-------------|---------|
-| 💻 **Full Stack Development** | Building end-to-end web applications |
-| 🔥 **Problem Solving** | Active on competitive programming platforms |
-| 📚 **Continuous Learning** | Always exploring new technologies & frameworks |
-| 🤝 **Open Source** | Contributing to community projects |
-| 🚀 **Innovation** | Creating impactful digital solutions |
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AvinashCreates&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+
+<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=AvinashCreates&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" />
+
+<br>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashCreates&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-<!-- GitHub Stats Section -->
-<h2 align="center">📊 GitHub Statistics</h2>
+## 🐍 Contribution Snake
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AvinashCreates&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&icon_color=00F7F7&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=AvinashCreates&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7F7&ring=00F7F7&fire=FF6B6B&currStreakLabel=00F7F7" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashCreates&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7F7&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=AvinashCreates&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00F7F7&line=7B42F6&point=FFFFFF&area=true&area_color=00F7F7" />
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Featured Projects Section -->
-<h2 align="center">💡 Featured Projects</h2>
+> The snake below is generated automatically by GitHub Actions from my contribution graph.
 
 <div align="center">
 
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| **Project 1** | Brief description of your project | React, Node.js, MongoDB |
-| **Project 2** | Brief description of your project | React, Django, PostgreSQL |
-| **Project 3** | Brief description of your project | Full Stack |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvinashCreates/AvinashCreates/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvinashCreates/AvinashCreates/output/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/AvinashCreates/AvinashCreates/output/github-snake.svg">
+</picture>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-<!-- Quick Links & Stats -->
-<h2 align="center">⚡ Quick Links & Stats</h2>
+## ⚡ Quick Stats
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AvinashCreates&color=00F7F7&style=flat-square&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/AvinashCreates?style=flat-square&label=GitHub+Followers&color=00F7F7)
-![GitHub Stars](https://img.shields.io/github/stars/AvinashCreates?style=flat-square&label=Total+Stars&color=00F7F7)
+![Profile Views](https://komarev.com/ghpvc/?username=AvinashCreates&style=flat-square&label=Profile+Views)
+
+[![GitHub Followers](https://img.shields.io/github/followers/AvinashCreates?style=flat-square&label=Followers)](https://github.com/AvinashCreates)
+[![GitHub Stars](https://img.shields.io/github/stars/AvinashCreates?style=flat-square&label=Stars)](https://github.com/AvinashCreates)
 
 </div>
+
+---
+
+## 💬 Let's Connect
 
 <div align="center">
 
-### 🔗 Quick Navigation
-[GitHub](https://github.com/AvinashCreates) • [LinkedIn](https://linkedin.com/in/avinash-creates) • [Portfolio](#) • [Email](mailto:pamarthiavinash07@gmail.com)
+I'm always open to building interesting things, discussing engineering ideas, collaborating on projects, and learning from other developers.
+
+<a href="mailto:avinash.creates@gmail.com">
+<img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/avinash-creates">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AvinashCreates">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<!-- Let's Connect -->
-<h2 align="center">💬 Let's Connect & Collaborate</h2>
+<br>
 
 <div align="center">
 
-```
-I'm always open to exciting opportunities, collaborations, and meaningful conversations.
-Feel free to reach out if you want to discuss:
-- Web Development & Full Stack Solutions
-- Open Source Projects
-- Technical Discussions
-- Or just say Hi! 👋
-```
+<img src="https://img.shields.io/badge/Built%20with%20❤️%20by-AvinashCreates-00F7F7?style=flat-square"/>
 
 </div>
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avinash.creates@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avinash-creates)
-[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AvinashCreates)
-
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AvinashCreates/AvinashCreates/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AvinashCreates/AvinashCreates/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/AvinashCreates/AvinashCreates/output/github-snake.svg" />
-  </picture>
-  
-  <br>
-  
-  <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20AvinashCreates-00F7F7?style=flat-square" />
-</div>
-
-04040040000444440400000404400044040444004040000000044004440040440000000400000004004040400040000040040404440400440440404400044
-00404444404040404004440400000044000400004400004440000400040000004000000400040000000000000040040440000000440404000004000004040
-00000000000440040404040000004000040000400000000004044400000040400404000004444404040000440004044004000004040440400400400404040
-00404040040044400044000004400400040000440004004000440044044004404400040040404440404000440000000404004404040004400044004400044
-00044040044004000040040040000440004040440440404000000000000000000400000000004404000400000000444004004004044000400000000000440
-40004400400000400000000000000000000000000004000000004400040004000004040404000000004004000440400004004040004400000000000400004
-04444040004044000040000044000440000004440000004444400004004000440000040004400004440040000000000040000400404040044000400040000
-40404004000400044000400004440004000000444004400440440004000004040000000400400400000000040040400000000000004000400440044400000
-44440400004000444000000044004404440400000004040040000004440400044040044004044004444404004000040044004004000040404000000000040
-00040000000004040440004400000444040004004000004040040040004000004040040000040404044000004000400400040044044404000040040000040
-04400400000040040044000404004440000000004404400000040004444004044040004400000044004004000444044444000004004404404004000004404
-40404400000000004404000040040000004404400040444444040000404440444044444440440000000000040000440404400000004040040400000444044
-40000040404000000000044000000400000000404440440004000000004400000440400044040000404004000000444000440000400400000000044004000
-00044004000000044040000040000000004040044000040004040400444004404400440000000400000004004000440000000440040040400040000044440
-00004404040404444004440004044000000440000000044404404044400040400000000404444044004404040044000440000040000444004040004440440
-00000040440400044000040000400000400404400040000000400044000000000004004400004004444044000444400000004440044000004044000444000
-00400044000000040044044000044044040044400044004000444000000444400000044000440404004004040400404004044400440000044400000400400
-40004000000040400000404400000000000000000004440040040044000040040444044440000040000404000000400004000004444044004004004000040
-40000000400000040000400000000040004000400000400040040400004400040400404040044404000000004000004000400400400404004004040004400
-44000000004444440400004040044440000000000040000044040040040040400400400040004400444044444444400440004400004004004040040004000
-40040404440404000000000044004000400000044404440400040000004000400040444000000400004400404044400000400004444044400000404040400
-04000040040004040004044040400044004040004404004004404000044040404000400404040000000040000000000044000000404040004400044000004
-00040000400400404404004000000044004440000400400040000400000400400404000400444040000040400000400040044044000040440400400000000
-04000400000400004040000000404000000044000044004000000000000440000004000400000000400004004000000000440044404444004044400404000
-00444444000400004444440400440004400000040444404004004040004000000000000000000040404000444004440440004000000000444404000004400
-40040000044000444404400000000000000004040000004000444044440040400400000044004440004400000000000044400004400444044040000000404
-00004400040444004000004004004000004004044004000404400444400004404004400404404000004000040400000000000000040044400044044400400
-40004440004004040000004400444040004004000000040440000040440000040044044000444000040000040044000404000004000404444000000400404
-00044040004004400044400000000004040004000000400404400004044000044400440000000000400440000044044044440000004400044000044040440
-04000400004000000040000444004440004000000400000000440040000000004400000404004400440400000004040040400404040400400000000404040
-44400400000000440044400404000040000004000040040000000040000044440400040000004000440000440004000004000000044044004000400000000
-44004000000044400040044000040000004400400000400000040400040400000044440040000444400400044000040040440044444040000004400000000
-00000040000044000004004000000040000004404000040040000004000400000404000040000400040004400400400040400004400400000404000000444
-04400004000000444444444004004440440000004040004000400404040400040000440000000004400444040400000404004040000400000044004400040
-00000440000044040440040044404000000040000004000000440400400444040000004044404004040040040000440004040000400044044404000040044
-00400000440044444040400400044000400044000404040000440000040044040000040000040004040400000400000000044404000404044000040404000
-00004440044000040404004400040440444400000044004044044400004000404004044440040404000440004004004000400400040044000000004044444
-00000400400000440440004040000040040000000400044000004400400400444400440044004400400000044000040000004404004000000400440040000
-04000004040000004400444400004444440400400400040040000000040400400404040000000000040004040004000044000004000004000400004400044
-04044000400044044400040400444040000004400400000440000044404400004440040040444440040040440004004000004000400400004000400000040
-04000040000040400040440404400444400040404404000400440000040444000400000040040004000004400000040400440040004000000404044404000
-00000040440000040040044040400400400000000404000440040000000000000040044000404040000404000004444000400000440044000000004000044
-04404000004400444000400004000000000044440000400040004440400000000000004000000400040400400040044000400440044004000044440400000
-00000040000444440440400004000400004040004000400000404444400004000040000040004000044000400004040004044440000040000404004000400
-40000000400444004440004400004000400004400400044040004004000040040440000040004040040400044000004000400000004000404000044040044
-00040040004404040040040044004040040004004040004000000404444440044040000044040000004400444040400400000040440000044000400004400
-40040000000440040400040400404040404040000404400044004040040000000000000400440000000400400040044004040004004000040444044004004
-44000000000440000440400404044404404000004000440000000404400004000000000040044000040440044004404040444000404400000040400000004
-00400004440440040000040004040004004000040000400000000404000040000044040000400400400040004400440004000000004004040000000400000
-00044000400400400400000400400040404044000004400044400000040444444000000004044040004404440400400040040404404040004000444000404
-00440440444000000044004000004400004000004000000040440440004404040400444040400000000404004000040044000004044004004440000000000
-44400004044004400000400004004400400400040040000400040044000044000004440440400400004004440444000040040004044044040000000040400
-40044004000004440400004400440000040000404000000404044440440004400400400004044404004404444004004000000040404004400400440400400
-44040404400004004400004044000440000004000040404040000040004000400000404044440000440000440004000000000004400040040000044440400
-00400000044400000000040000044004040004004004000440404000000404444000000000440000000044000044000000040040040404444000000404044
-00044400000000400044000000000040040000000044400000004004000000444404000040440400004400000004400004400000000444000044040000000
-04000400040044000400000000000404044000004004404000400000000044040404004004044040000000000040040044044444404404004400440000000
-00000404000400000040000040000000400000044400040440004004004004440004040000000000040040004440044040004444400004004440004400000
-40040040000400004004400040044040000400440040000044044400044440440000000040400400000400400440400000000400400440004004400004000
-04040000400000404444000400000044000040400000000000044400404400040040000004400400400040040040040004040440000004004040044000040
-04000000040040000404044000440040400000044444000444004004040000000040044400040000400040000004404400400404400000400044000400400
-00044404440040044400000400004400000040400040400000404040000000440400440000040404440044400400040000000000040000000000000400000
-44440440040404004000040040000004400000440000000040000000000000044004040440004040000040004004004000044004040440000400044440040
-00404040000400400400040400400404004040000040000004000400404000440400040000000004040440400440440440004000440440004000044000000
-00004004040040444000044000040400044000000040044000404000400000404004400000400444000000040444400000440000404044400000040040004
-00440404004000000404040000004000000404404400440400000000044444000000000040000000404000400000404000400040000044004404004044044
-04000440040444040400044040000000440004000440004000440444000004404000400004404040404044000000000044400044400044004440400004004
-00044400444400400040000040040004000440040400004400000044004400404004000000044004004000400444440044004000004000040044000404044
-00400000040000000000000044004004040044400044000400004000040000044044004400404000040400044044444000400040000040000400000400040
-40000004404404004000000040000400040440440000400400000000404000040400040000000040444040000400040000000000400040404000000004000
-40000040404000444440004000400404040000404040044444000000040000044000004404040400004000000040000400000444040400440440000000044
-00440440440000000000044400444004440000000000000040040000404000404000400044444404000040040004004004000000404400040000044040044
-04004004004004000004404000000000004040440000000444040400000004000004400400040000004044000004004000000000044000000400440004040
-04004000000004000404000004044044040000004004040404440004000404040004044000400000000044044000000004404400400404004440040040004
-40404004004044040040000440000040400044000400004044000000404400400040004000044000000004000400044444404400004440004040440400000
-04044404044404404004044040440404400400000004400444000000000044440440040000004000440000404004440000004000440004404044400444000
-00000004004000000000004000004040440004440044000404004004000040040440000000440404000040000440044440040000444400440000000000000
-00004004040400004000000440444000040000444000004440040000000400004040040004000400040040040040004000040000040000044004400000400
-04004440004404004000004440040004040000000004440000000444404440400040404000004004000400440404440400044004400440400000044400040
-44000004004404040000000000400404004000444040440000400004000000040400400000404004040000400004404044400040000040400000040000004
-00440040040004040000000440040400040400040000404000400400400000000400040400000404000040004004000000000040004000400044440044040
-00440440000040040000004040040004000400444000400400040000004440000000000000040040044440004040004000000000400000000400044404000
